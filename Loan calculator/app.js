@@ -70,7 +70,3 @@ document.querySelector('.btn').addEventListener('click', function(e){
    }
    hide();
    spin.classList.add('hidden');
-   //monthlypayment.style.display = 'none';
-   //monthlymoney.style.display = 'none';
-   //totalpayment.style.display = 'none';
-   //totalinterest.style.display = 'none';
